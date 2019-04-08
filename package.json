@@ -1,0 +1,20 @@
+{
+  "name": "ctx-replace",
+  "version": "1.0.1",
+  "description": "fill string with context",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dna-js/ctx-replace.git"
+  },
+  "keywords": [],
+  "author": "magmaliang@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dna-js/ctx-replace/issues"
+  },
+  "homepage": "https://github.com/dna-js/ctx-replace#readme"
+}
